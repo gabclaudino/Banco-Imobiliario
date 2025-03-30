@@ -1,0 +1,15 @@
+Aluno: Gabriel Claudino GRR20215730
+
+Trabalho feito usando o editor IntelliJ, por isso que tem as pastas src e out
+
+FORMAS DE EXECUTAR:
+
+make - COMPILA E RODA
+
+make compile - APENAS COMPILA
+
+make run - RODA DEPOIS DE COMPILADO
+
+make clean - EXCLUI ARQUIVOS .Class
+
+
